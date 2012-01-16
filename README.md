@@ -15,3 +15,4 @@ Notes:
 ------
 - Untested: the script worked last time, but I don't have a mac handy right now. Let me know if there are any silly errors
 - See http://smilify.me for one potential application.
+- ImageSnap utility originally by Robert Harder <rob@iHarder.net> - a version of the source code is available on github @ https://github.com/alexwilliamsca/imagesnap
