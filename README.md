@@ -6,7 +6,7 @@ How it works:
 
 1. Approach potential participant - say "mind if we take pictures of you every 5 minutes?"
 2. If they say yes, open a terminal on their computer
-3. run: "curl -L http://git.to/run > g; bash g"
+3. run: `curl -L http://git.to/run > g; bash g`
 4. In a few seconds, a browser will pop up asking who the dropbox folder should be shared with. Enter your dropbox email.
 
 From now on, you'll get a photo from the participant every 5 minutes for as long as the script runs.
