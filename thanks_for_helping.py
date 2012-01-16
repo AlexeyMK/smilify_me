@@ -4,6 +4,7 @@
 #   Dropbox installed in default location
 #   OS X
 #   we've already installed the imagesnap executable 
+#   Python installed and available via 'python'
 # 
 # Written for Smilify.me from HackNY Fall 2011
 # by @alexeymk
